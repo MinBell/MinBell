@@ -1,16 +1,17 @@
-### Hi there 👋
+## Profile
+ Hi there 👋
 
-<!--
-**MinBell/MinBell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* A Java developer who dreams in Java and is always striving to grow and enhance technical abilities
+* Worked on financial software with a solid grasp of Java and Spring
+* Passionate about writing efficient and clean code and interested in mobile app development
+* Currently self-learning service app development with a passion for improvement
 
-Here are some ideas to get you started:
+## Stacks
+#### Language
+<span>
+ <img src="https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" /> 
+ <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
+ <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+ <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</span>
